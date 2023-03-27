@@ -1,0 +1,532 @@
+Form GSTR-9C
+See rule 80(3)
+Reconciliation Statement
+PART – A
+Pt.I
+Basic Details
+1
+Financial Year
+2020-21
+2
+GSTIN
+27AAJCA0072C1Z5
+3(a)
+Legal Name
+WIPRO ENTERPRISES PRIVATE LIMITED
+3(b)
+Trade Name (if any)
+WIPRO ENTERPRISES PRIVATE LIMITED
+3(c)
+ARN
+AD2703210609634
+3(d)
+ARN Date
+22-12-2021
+4
+Name of Act. If you are liable to audit under any Act
+The Companies act, 2013
+(Amount in ₹ in all tables)
+Reconciliation of turnover declared in audited Annual Financial Statement with turnover declared in Annual Return (GSTR-9)
+Pt.II
+Reconciliation of turnover declared in audited Annual Financial Statement with turnover declared in Annual Return (GSTR-9)
+5
+Reconciliation of Gross Turnover
+Sr. No
+Description
+Amount
+A
+Turnover (including exports) as per audited financialstatements for the State / UT
+9,94,39,78,158.19
+(For multi-GSTIN units under same PAN, the turnover shall be derived from the
+audited Annual Financial Statement)
+B
+Unbilled revenue at the beginning of Financial Year
+(+)
+C
+Unadjusted advances at the end of the Financial Year
+(+)
+D
+Deemed Supply under Schedule I
+(+)
+6,69,18,99,570.47
+E
+Credit Notes issued after the end of the financial year but reflected
+(+)
+in the annual return FINAL
+F
+Trade Discounts accounted for in the audited Annual Financial
+(+)
+Statement but are not permissible under GST
+G
+Turnover from April 2017 to June 2017
+(-)
+H
+Unbilled revenue at the end of Financial Year
+(-)
+I
+Unadjusted Advances at the beginning of the Financial Year
+(-)
+J
+Credit notes accounted for in the audited Annual Financial
+(-)
+Statement but are not permissible under GST
+K
+Adjustments on account of supply of goods by SEZ units to DTA
+(-)
+Units
+L
+Turnover for the period under composition scheme
+(-)
+M
+Adjustments in turnover under section 15 and rules thereunder
+(+/-)
+N
+Adjustments in turnover due to foreign exchange fluctuations
+O
+Adjustments in turnover due to reasons not listed above
+(+/-)
+46,41,46,175.20
+P
+Annual turnover after adjustments as above (A+B+C+D-E+F-G-H-I+J-K-L+M+N+O)
+17,10,00,23,903.86
+Q
+Turnover as declared in Annual Return (GSTR9)
+17,10,00,23,903.86
+R
+Un-Reconciled turnover (Q - P)
+0.00
+6
+Reasons for Un - Reconciled difference in Annual Gross Turnover
+A
+Reason number 1
+7
+Reconciliation of Taxable Turnover
+Sr. No
+Description
+Amount
+A
+Annual turnover after adjustments (from 5P above)
+17,10,00,23,903.86
+B
+Value of Exempted, Nil Rated, Non-GST supplies, No-Supply turnover
+4,93,560.00
+C
+Zero rated supplies without payment of tax
+72,78,51,062.77
+D
+Supplies on which tax is to be paid by the recipient on reverse charge basis
+FINAL(+/-)
+-
+E
+Taxable turnover as per adjustments above (A-B-C-D)
+16,37,16,79,281.09
+F
+Taxable turnover as per liability declared in Annual Return (GSTR9)
+16,37,16,79,281.09
+G
+Unreconciled taxable turnover (F-E)
+0.00
+8
+Reasons for Un - Reconciled difference in taxable turnover
+A
+Reason number 1
+Pt.III
+Reconciliation of tax paid
+9
+Reconciliation of rate wise liability and amount payable thereon
+Sr. No
+Description
+Taxable Value
+Tax payable
+Central tax
+State tax/ UT tax
+Integrated Tax
+Cess, if applicable
+A
+5%
+4,61,97,299.28
+2,62,357.12
+2,62,357.12
+17,85,148.43
+B
+5% (RC)
+43,00,66,265.62
+53,57,738.12
+53,57,738.12
+1,07,84,208.91
+C
+12%
+4,74,60,41,772.12
+8,48,68,160.25
+8,48,68,160.25
+39,97,88,445.57
+D
+12% (RC)
+0.00
+0.00
+0.00
+0.00
+E
+18%
+11,56,38,51,347.50
+56,24,24,152.45
+56,24,24,152.45
+95,65,75,735.87
+F
+18% (RC)
+12,51,89,440.39
+9,22,834.15
+9,22,834.15
+2,06,88,430.97
+G
+28%
+8,83,517.19
+878.54
+878.54
+2,45,627.72
+H
+28% (RC)
+I
+3%
+J
+0.25%
+K
+0.10%
+1,47,05,345.00
+7,130.17
+7,130.17
+445.00
+K1
+Others%
+L
+Interest
+1,17,675.49
+1,17,675.49
+1,06,688.00
+M
+Late Fee FINAL
+N
+Penalty
+O
+Others
+P
+Total amount to be paid as per
+65,39,60,926.29
+65,39,60,926.29
+1,38,99,74,730.47
+0.00
+tables above
+Q
+Total amount paid as declared in
+65,38,43,250.80
+65,38,43,250.80
+1,38,98,68,042.46
+0.00
+Annual Return (GSTR 9)
+R
+Un-reconciled payment of amount
+-1,17,675.49
+-1,17,675.49
+-1,06,688.01
+0.00
+10
+Reasons for un-reconciled payment of amount
+A
+Reason number 1
+The Difference in Table 9R of GSTR -9C is on account of Interest amounting to INR
+3,42,038/- (CGST: 1,17,675./-; SGST: 1,17,675/-; IGST: 1,06,688/-) paid through
+monthly returns and DRC-03, which is not being auto populated in 9Q of GSTR -9C
+from GSTR 9.
+B
+Reason number 2
+The difference in the Table 9 of GSTR 9 between the Tax Payable and Tax Paid
+amounting to INR 75,089/-(CGST: 18,057/-; SGST: 18,057/-; IGST: 38,976/- ) is on
+account of output tax liability of FY 19-20 repored in GSTR-3B filed during the
+period April 2020 to September 2021. The said transaction is not considered as
+part of Table 4 of GSTR 9 filed for FY 20-21. Hence the difference. However this
+does not have any tax impact.
+C
+Reason number 3
+The difference in the Table 9 of GSTR 9 between the Tax Payable and Tax Paid
+(CGST: 7,418/-; SGST: 7,418/-; CGST interest: 1,197/-; SGST interest: 1,197/-) is on
+account of certain Outward supplies omitted in the monthly returns filed and same
+is rectified in GSTR 9 and discharged the GST liability along with the interest
+through DRC-03 vide ARNNo: AD2712210429265 dated: 22/12/2021
+11
+Additional amount payable but not paid (due to reasons specified under Tables 6,8 and 10 above)
+Sr. No
+Description
+Taxable Value
+To be paid through Cash
+Central tax
+State tax/ UT tax
+Integrated Tax
+Cess, if applicable
+A
+5% FINAL
+0.00
+0.00
+0.00
+0.00
+0.00
+B
+12%
+0.00
+0.00
+0.00
+0.00
+0.00
+C
+18%
+0.00
+0.00
+0.00
+0.00
+0.00
+D
+28%
+0.00
+0.00
+0.00
+0.00
+0.00
+E
+3%
+0.00
+0.00
+0.00
+0.00
+0.00
+F
+0.25%
+0.00
+0.00
+0.00
+0.00
+0.00
+G
+0.10%
+0.00
+0.00
+0.00
+0.00
+0.00
+G1
+Others%
+0.00
+0.00
+0.00
+0.00
+0.00
+H
+Interest
+0.00
+0.00
+0.00
+0.00
+I
+Late Fee
+0.00
+0.00
+0.00
+0.00
+J
+Penalty
+0.00
+0.00
+0.00
+0.00
+K
+Others
+0.00
+0.00
+0.00
+0.00
+(please
+specify)
+Pt. IV
+Reconciliation of Input Tax Credit (ITC)
+12
+FINALReconciliation of Net Input Tax Credit (ITC)
+Sr. No
+Description
+Amount
+A
+ITC availed as per audited Annual Financial Statement for the State/ UT (For
+2,43,38,34,452.43
+multi-GSTIN units under same PAN this should be derived from books of
+accounts)
+B
+ITC booked in earlier Financial Years claimed in current Financial Year
+0.00
+C
+ITC booked in current Financial Year to be claimed in subsequent Financial
+0.00
+Years
+D
+ITC availed as per audited financial statements or books of account
+2,43,38,34,452.43
+E
+ITC claimed in Annual Return (GSTR9)
+2,43,38,34,452.43
+F
+Un-reconciled ITC
+0.00
+13
+Reasons for un-reconciled difference in ITC
+A
+Reason number 1
+14
+Reconciliation of ITC declared in Annual Return (GSTR9) with ITC availed on expenses as per audited Annual Financial
+Statement or books of account
+Sr.No
+Description
+Value
+Amount of Total ITC
+Amount of eligible ITC
+availed
+A
+Purchases
+B
+Freight / Carriage
+C
+Power and Fuel
+D
+Imported goods (Including received
+from SEZs)
+E
+Rent and Insurance
+F
+Goods lost, stolen, destroyed, written off
+or disposed of by way of gift or free
+samples
+G
+Royalties
+H
+Employees' Cost (Salaries, wages,
+Bonus etc.)
+I
+Conveyance charges
+J
+Bank Charges
+K
+Entertainment charges
+L
+Stationery Expenses(including postage
+etc.)
+M
+Repair and Maintenance
+N
+Other Miscellaneous expenses
+O
+Capital goods
+P
+Any other expense 1 FINAL
+Q
+Any other expense 2
+Q1
+Any other expense 3
+Q2
+Any other expense 4
+Q3
+Any other expense 5
+R
+Total amount of eligible ITC availed (A
+0.00
+to Q)
+S
+ITC claimed in Annual Return (GSTR9)
+0.00
+T
+Un-reconciled ITC (S-R)
+0.00
+15
+Reasons for un - reconciled difference in ITC
+A
+Reason number 1
+16
+Tax payable on un-reconciled difference in ITC (due to reasons specified in 13 and 15 above)
+Sr. No
+Description
+FINALAmount Payable
+A
+Central Tax
+0.00
+B
+State/UT Tax
+0.00
+C
+Integrated Tax
+0.00
+D
+Cess
+0.00
+E
+Interest
+0.00
+F
+Penalty
+0.00
+Pt. V
+Additional Liability due to non-reconciliation
+Sr.
+Description
+Value
+To be paid through Cash
+No.
+Central tax
+State tax / UT tax
+Integrated tax
+Cess, if applicable
+A
+5%
+B
+12%
+C
+18%
+D
+28%
+E
+3%
+F
+0.25%
+G
+0.10%
+G1
+Others%
+H
+Input Tax
+Credit
+I
+Interest
+J
+Late Fee
+K
+Penalty
+L
+Any other
+amount paid
+for supplies not
+included in
+Annual Return
+M
+Erroneous
+refund to be
+paid back
+N
+Outstanding
+demands to be
+settled
+O
+Other (Pl.
+specify)
+Verification of registered person: FINAL
+I hereby solemnly affirm and declare that the information given herein above is true and correct and nothing has been concealed there
+from. I am uploading this self-certified reconciliation statement in FORM GSTR-9C. I am also uploading other statements, as applicable,
+including financial statement, profit and loss account and balance sheet etc.
+Name of the Authorised Signatory
+NIKHIL GUPTA
+Date: 22-12-2021
+Designation/Status
+Manager Indirect Taxation
+FINAL
